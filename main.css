@@ -75,7 +75,7 @@ body {
 	margin-right: 10px;
 }
 /* Mobile Styles */
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 400px) and (-webkit-device-pixel-ratio: 4) {
   .foto-container,
   .contacts{
   	width: 90%;
